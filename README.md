@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate junior developer from Canada</h3>
 
-<img align=”right” alt=”coding img” width=400 src=”https://photography.tutsplus.com/articles/top-coding-programming-scene-animation-templates-after-effects--cms-38984”>
+<img align=”right” alt='coding img' width=400 src='https://www.shutterstock.com/search/coding-cartoon'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielzhou22&label=Profile%20views&color=0e75b6&style=flat" alt="arielzhou22" /> </p>
 
