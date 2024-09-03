@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate junior developer from Canada</h3>
 
-<img align='center' alt='coding img' width=400 src='https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1725381395~exp=1725381995~hmac=2581fd293bcde4bdd49bc77143f48bd878050972a126ace0bd9cee48c47dc6e9'>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+        <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1725381395~exp=1725381995~hmac=2581fd293bcde4bdd49bc77143f48bd878050972a126ace0bd9cee48c47dc6e9" alt="coding img" width="400">
+    </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielzhou22&label=Profile%20views&color=0e75b6&style=flat" alt="arielzhou22" /> </p>
 
